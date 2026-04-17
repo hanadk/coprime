@@ -24,14 +24,11 @@ python main.py evaluate --checkpoint ./checkpoints/finetune_epoch1.pt --dataset 
 ## Citation
 This work has been accepted in AISTATS 2026, Citation:
 ```
-@InProceedings{pmlr-v258-bezirganyan25a,
+@InProceedings{pmlr-naderi2026coprime,
   title =       {From Token Imbalance to Balanced Routing: An ELBO-Regularized Probabilistic Framework for Contrastive Multimodal Learning},
   author =      {Naderi, Habibeh and Haji Soleimani, Behrouz and Matwin, Stan},
-  booktitle =   {Proceedings of The 29th International Conference on Artificial Intelligence and Statistics},
-  year =        {2026},
-  series =      {Proceedings of Machine Learning Research},
-  month =       {02--06 May},
-  publisher =   {PMLR}
+  booktitle =   {29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year =        {2026}
 }
 ```
 
